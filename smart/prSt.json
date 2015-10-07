@@ -1,0 +1,36 @@
+[
+    {
+        "ad": "1",
+        "content": [
+            {
+                "img": "png",
+                "ios": "1033027291"
+            },
+            {
+                "img": "png",
+                "android": "pyschwomentest.i3r2y.com"
+            },
+            {
+                "img": "png",
+                "wp": ""
+            }
+        ]
+    },
+    {
+        "ad": "2",
+        "content": [
+            {
+                "img": "png",
+                "ios": "1033027291"
+            },
+            {
+                "img": "png",
+                "android": "pyschwomentest.i3r2y.com"
+            },
+            {
+                "img": "png",
+                "wp": ""
+            }
+        ]
+    }
+]
