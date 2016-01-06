@@ -1,42 +1,34 @@
-[
+{"ad":[
     {
-        "ad": "1",
-        "content": [
-            {
-                "img": "https://4.bp.blogspot.com/-YlicVQN5ogk/VhlRuzIFFlI/AAAAAAAACSE/8hsfePeTE-g/s1600/4811f452bd96bebbe6dfe124ecb8ca01.png",
-                "txt": "حلل شخصيتك ",
-                "ios": "1033027287"
-            },
-            {
-                "img": "https://4.bp.blogspot.com/-YlicVQN5ogk/VhlRuzIFFlI/AAAAAAAACSE/8hsfePeTE-g/s1600/4811f452bd96bebbe6dfe124ecb8ca01.png",
-                "txt": "حلل شخصيتك ",
-                "android": "pyschtests.i3r2y.com"
-            },
-            {
-                "img": "https://4.bp.blogspot.com/-YlicVQN5ogk/VhlRuzIFFlI/AAAAAAAACSE/8hsfePeTE-g/s1600/4811f452bd96bebbe6dfe124ecb8ca01.png",
-                "txt": "حلل شخصيتك ",
-                "wp": ""
-            }
-        ]
+    "id":"1",
+    "img":"https://1.bp.blogspot.com/-cH8Y-Y4dyro/VfVSPhOZTuI/AAAAAAAACQk/hM23TTuFfAs/s400/adJob%2Bcopy.jpg",
+    "txt":"عربى بى ى",
+    "ios":"1033027287",
+    "android":"pyschtests.i3r2y.com",
+    "wp":"https://www.windowsphone.com/ar-jo/store/app/%D8%A7%D8%AD%D8%B2%D8%B1-%D8%A7%D9%84%D9%84%D8%BA%D8%B2-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9/accb5fdc-f70a-4586-9317-d1f9579360f5"
     },
     {
-        "ad": "2",
-        "content": [
-            {
-                "img": "https://4.bp.blogspot.com/-YlicVQN5ogk/VhlRuzIFFlI/AAAAAAAACSE/8hsfePeTE-g/s1600/4811f452bd96bebbe6dfe124ecb8ca01.png",
-                "txt": "حلل شخصيتك ",
-                "ios": "1033027287"
-            },
-            {
-                "img": "https://4.bp.blogspot.com/-YlicVQN5ogk/VhlRuzIFFlI/AAAAAAAACSE/8hsfePeTE-g/s1600/4811f452bd96bebbe6dfe124ecb8ca01.png",
-                "txt": "حلل شخصيتك ",
-                "android": "pyschtests.i3r2y.com"
-            },
-            {
-                "img": "https://4.bp.blogspot.com/-YlicVQN5ogk/VhlRuzIFFlI/AAAAAAAACSE/8hsfePeTE-g/s1600/4811f452bd96bebbe6dfe124ecb8ca01.png",
-                "txt": "حلل شخصيتك ",
-                "wp": ""
-            }
-        ]
+    "id":"2",
+    "img":"https://1.bp.blogspot.com/-cH8Y-Y4dyro/VfVSPhOZTuI/AAAAAAAACQk/hM23TTuFfAs/s400/adJob%2Bcopy.jpg",
+    "txt":"عربى بى ى",
+    "ios":"1033027287",
+    "android":"pyschtests.i3r2y.com",
+    "wp":"https://www.windowsphone.com/ar-jo/store/app/%D8%A7%D8%AD%D8%B2%D8%B1-%D8%A7%D9%84%D9%84%D8%BA%D8%B2-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9/accb5fdc-f70a-4586-9317-d1f9579360f5"
+    },
+    {
+    "id":"3",
+    "img":"https://1.bp.blogspot.com/-cH8Y-Y4dyro/VfVSPhOZTuI/AAAAAAAACQk/hM23TTuFfAs/s400/adJob%2Bcopy.jpg",
+    "txt":"عربى بى ى",
+    "ios":"1033027287",
+    "android":"pyschtests.i3r2y.com",
+    "wp":"https://www.windowsphone.com/ar-jo/store/app/%D8%A7%D8%AD%D8%B2%D8%B1-%D8%A7%D9%84%D9%84%D8%BA%D8%B2-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9/accb5fdc-f70a-4586-9317-d1f9579360f5"
+     },
+    {
+    "id":"4",
+    "img":"https://1.bp.blogspot.com/-cH8Y-Y4dyro/VfVSPhOZTuI/AAAAAAAACQk/hM23TTuFfAs/s400/adJob%2Bcopy.jpg",
+    "txt":"عربى بى ى",
+    "ios":"1033027287",
+    "android":"pyschtests.i3r2y.com",
+    "wp":"https://www.windowsphone.com/ar-jo/store/app/%D8%A7%D8%AD%D8%B2%D8%B1-%D8%A7%D9%84%D9%84%D8%BA%D8%B2-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9/accb5fdc-f70a-4586-9317-d1f9579360f5"
     }
-]
+]}
